@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "devicefingerprints"
+version = "0.0.0"
+requires-python = ">=3.8"
+dependencies = [
+    "chardet",
+    "datasets",
+    "numpy",
+    "pyarrow",
+    "scikit-learn",
+    "tokenizers",
+    "torch",
+    "tqdm",
+    "transformers",
+    "xxhash"
+]
+
+[tool.setuptools]
+packages = ["devicefingerprints"]
+
+[tool.yapf]
+based_on_style = "google"
