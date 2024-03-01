@@ -1,5 +1,8 @@
-#!/usr/bin/env python
-"""Computes and saves banner embeddings using a pre-trained model."""
+"""
+Computes and saves banner embeddings using a pre-trained model.
+计算并保存使用预训练模型的banner嵌入。
+"""
+
 
 import argparse
 import functools

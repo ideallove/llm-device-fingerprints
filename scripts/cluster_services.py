@@ -1,5 +1,7 @@
-#!/usr/bin/env python
-"""Clusters banner embeddings using HDBSCAN."""
+"""
+Clusters banner embeddings using HDBSCAN.
+使用HDBSCAN对banner嵌入进行聚类。
+"""
 
 import argparse
 from pathlib import Path

@@ -1,5 +1,7 @@
-#!/usr/bin/env python
-"""Trains a tokenizer for encoding banners."""
+"""
+Trains a tokenizer for encoding banners.
+训练一个用于编码横幅的分词器。
+"""
 
 import argparse
 from pathlib import Path

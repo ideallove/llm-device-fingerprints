@@ -1,5 +1,7 @@
-#!/usr/bin/env python
-"""Trains a masked language model (MLM)."""
+"""
+Trains a masked language model (MLM).
+训练一个掩码语言模型（MLM）。
+"""
 
 import argparse
 import json

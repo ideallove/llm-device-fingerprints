@@ -1,5 +1,7 @@
-#!/usr/bin/env python
-"""Trains an embedding model using a contrastive loss function."""
+"""
+Trains an embedding model using a contrastive loss function.
+使用一个对比损失函数训练嵌入模型。
+"""
 
 import argparse
 import json

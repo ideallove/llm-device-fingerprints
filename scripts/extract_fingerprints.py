@@ -1,5 +1,7 @@
-#!/usr/bin/env python
-"""Extracts regular expression fingerprints from clustered HTTP embeddings."""
+"""
+Extracts regular expression fingerprints from clustered HTTP embeddings.
+提取从聚类的HTTP banner中提取正则表达式指纹。
+"""
 
 import argparse
 from pathlib import Path
